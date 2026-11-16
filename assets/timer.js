@@ -150,12 +150,12 @@ function renderSetup() {
   setText(card.querySelector('.total-value'), formatDuration(totalDuration(buildPhases(settings)) / 1000));
 }
 
+// The address bar is left alone while the timer changes: browsers throw after about 100 history
+// updates in 10 seconds, which holding a stepper reaches. Share builds the link with the current setup.
 function update(patch) {
   settings = { ...settings, ...patch };
   store();
   renderSetup();
-  const url = shareUrl();
-  if (url !== `${location.origin}${location.pathname}${location.search}`) history.replaceState(null, '', url + location.hash);
 }
 
 // Steppers repeat while held, faster and faster, like the app's.

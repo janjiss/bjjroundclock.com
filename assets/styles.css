@@ -335,7 +335,15 @@ summary:focus-visible {
 .hero {
   position: relative;
   padding: 56px 0 88px;
+}
+
+/* Only the glows are clipped. An overflow: hidden box around the timer card can be scrolled by
+   focus and #timer links, and the visitor then can't scroll it back (the top of the page vanishes). */
+.glows {
+  position: absolute;
+  inset: 0;
   overflow: hidden;
+  pointer-events: none;
 }
 
 .glow {
