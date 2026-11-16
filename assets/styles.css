@@ -981,8 +981,9 @@ summary:focus-visible {
 }
 
 .run-round {
-  margin: 0;
-  font-size: 20px;
+  margin: 0 8px;
+  font-size: clamp(15px, 5.2vw, 20px);
+  white-space: nowrap;
   font-weight: 800;
   letter-spacing: 0.12em;
   font-variant-numeric: tabular-nums;
@@ -1086,8 +1087,8 @@ summary:focus-visible {
 .round-btn {
   display: grid;
   place-items: center;
-  width: 68px;
-  height: 68px;
+  width: clamp(52px, 17vw, 68px);
+  height: clamp(52px, 17vw, 68px);
   border-radius: 50%;
   background: var(--soft);
   color: var(--fg);
@@ -1105,8 +1106,8 @@ summary:focus-visible {
 }
 
 .round-btn-main {
-  width: 96px;
-  height: 96px;
+  width: clamp(76px, 25vw, 96px);
+  height: clamp(76px, 25vw, 96px);
   background: var(--fg);
   color: var(--phase-bg);
 }
