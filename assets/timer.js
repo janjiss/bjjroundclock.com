@@ -77,6 +77,7 @@ function fromUrl() {
 }
 
 function loadStored() {
+  if (!cfg.storageKey) return { ...sport.defaults };
   try {
     const raw = JSON.parse(localStorage.getItem(cfg.storageKey) ?? 'null');
     if (raw && typeof raw === 'object') return clean(raw);
@@ -85,6 +86,7 @@ function loadStored() {
 }
 
 function store() {
+  if (!cfg.storageKey) return;
   try {
     localStorage.setItem(cfg.storageKey, JSON.stringify(settings));
   } catch {}

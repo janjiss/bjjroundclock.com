@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bjjroundclock.com/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://bjjroundclock.com/pt-br/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://bjjroundclock.com/es/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://bjjroundclock.com/ja/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/"/>
@@ -37,7 +37,259 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/"/>
   </url>
   <url>
+    <loc>https://bjjroundclock.com/ibjjf-match-times/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/ibjjf-match-times/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/ibjjf-match-times/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/ibjjf-match-times/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/ibjjf-match-times/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/ibjjf-match-times/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/5-minute-round-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/5-minute-round-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/5-minute-round-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/5-minute-round-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/5-minute-round-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/5-minute-round-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/open-mat-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/open-mat-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/open-mat-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/open-mat-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/open-mat-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/open-mat-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/open-mat-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/open-mat-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/open-mat-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/positional-sparring-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/positional-sparring-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/positional-sparring-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/positional-sparring-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/positional-sparring-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/positional-sparring-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/drilling-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/drilling-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/drilling-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/drilling-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/drilling-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/drilling-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/drilling-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/drilling-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/drilling-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/shark-tank-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/shark-tank-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/shark-tank-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/shark-tank-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/shark-tank-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/shark-tank-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/shark-tank-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/shark-tank-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/shark-tank-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/adcc-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/adcc-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/pt-br/adcc-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/adcc-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/es/adcc-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/adcc-timer/"/>
+  </url>
+  <url>
+    <loc>https://bjjroundclock.com/ja/adcc-timer/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bjjroundclock.com/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://bjjroundclock.com/pt-br/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bjjroundclock.com/es/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bjjroundclock.com/ja/adcc-timer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bjjroundclock.com/adcc-timer/"/>
+  </url>
+  <url>
     <loc>https://bjjroundclock.com/privacy/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
 </urlset>

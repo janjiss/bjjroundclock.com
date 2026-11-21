@@ -8,6 +8,8 @@
   --text: #ffffff;
   --dim: #8e8e9a;
   --accent: #e5383b;
+  /* Under white text: the app's red is a shade too light for small labels (4.2:1), this one is 4.7:1. */
+  --accent-fill: #dc2f33;
   --accent-dim: #3a1418;
   --accent-text: #f2a7a8;
   --prepare: #1f5fd6;
@@ -118,7 +120,7 @@ summary:focus-visible {
   min-height: 52px;
   padding: 0 22px;
   border-radius: 16px;
-  background: var(--accent);
+  background: var(--accent-fill);
   color: #fff;
   font-weight: 800;
   text-decoration: none;
@@ -327,7 +329,7 @@ summary:focus-visible {
 }
 
 .lang-menu a[aria-current] {
-  color: var(--accent);
+  color: var(--accent-text);
 }
 
 /* ---------- hero ---------- */
@@ -781,7 +783,7 @@ summary:focus-visible {
   gap: 10px;
   height: 60px;
   border-radius: 18px;
-  background: var(--accent);
+  background: var(--accent-fill);
   color: #fff;
   font-size: 20px;
   font-weight: 800;
@@ -1163,7 +1165,7 @@ summary:focus-visible {
 }
 
 .done-btn-main {
-  background: var(--accent);
+  background: var(--accent-fill);
   color: #fff;
 }
 
@@ -1615,6 +1617,215 @@ summary:focus-visible {
   margin-right: auto;
 }
 
+/* ---------- guide pages (a timer preset plus how to run it) ---------- */
+
+.crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+  color: var(--dim);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.lang-ja .crumbs {
+  letter-spacing: 0.06em;
+}
+
+.crumbs a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.crumbs a:hover {
+  text-decoration: underline;
+}
+
+.guide-hero h1 {
+  font-size: clamp(36px, 4.8vw, 58px);
+  line-height: 1.06;
+  letter-spacing: -0.03em;
+}
+
+.lang-ja .guide-hero h1 {
+  font-size: clamp(30px, 3.8vw, 46px);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+/* No "try it" note on these pages, so the card needs no room above it. */
+.guide-hero .hero-timer {
+  padding-top: 0;
+}
+
+.spec {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 32px;
+  margin: 28px 0 0;
+}
+
+.spec dt {
+  color: var(--dim);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.spec dd {
+  margin: 2px 0 0;
+  font-size: 26px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.guide-body {
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.guide-wrap {
+  max-width: 808px;
+}
+
+.guide-block + .guide-block {
+  margin-top: 56px;
+}
+
+.guide-block h2 {
+  margin: 0;
+  font-size: clamp(24px, 3vw, 32px);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+.lang-ja .guide-block h2 {
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.guide-block p,
+.guide-block ul {
+  margin: 14px 0 0;
+  color: #c9c9d3;
+  font-size: 18px;
+}
+
+.guide-block ul {
+  padding-left: 1.2em;
+}
+
+.guide-block li + li {
+  margin-top: 8px;
+}
+
+.guide-block .note,
+.guide-block .source {
+  color: var(--dim);
+  font-size: 15px;
+}
+
+.guide-block .source a {
+  color: inherit;
+}
+
+.guide-block .belt-table {
+  margin-top: 22px;
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+.time-table {
+  width: 100%;
+  margin-top: 22px;
+  border-collapse: collapse;
+}
+
+.time-table th,
+.time-table td {
+  padding: 13px 16px 13px 0;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.time-table th:last-child,
+.time-table td:last-child {
+  padding-right: 0;
+}
+
+.time-table thead th {
+  color: var(--dim);
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.time-table tbody th {
+  font-weight: 700;
+}
+
+.time-table td {
+  color: #e6e6ec;
+  font-variant-numeric: tabular-nums;
+}
+
+.guide-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 40px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.guide-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 100%;
+  padding: 22px;
+  border-radius: 24px;
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.guide-card:hover {
+  border-color: #4a4a58;
+}
+
+.guide-card:active {
+  transform: scale(0.99);
+}
+
+.guide-card-detail {
+  color: var(--accent-text);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  font-variant-numeric: tabular-nums;
+}
+
+.guide-card strong {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.guide-card span:last-child {
+  color: #b7b7c2;
+  font-size: 16px;
+}
+
 /* ---------- footer ---------- */
 
 .site-footer {
@@ -1646,13 +1857,19 @@ summary:focus-visible {
   font-size: 14px;
 }
 
-.footer-langs {
+.footer-langs,
+.footer-guides {
   display: flex;
   flex-wrap: wrap;
   gap: 4px 16px;
 }
 
+.footer-guides {
+  width: 100%;
+}
+
 .footer-langs a,
+.footer-guides a,
 .footer-meta a {
   color: var(--dim);
   font-size: 14px;
@@ -1661,6 +1878,7 @@ summary:focus-visible {
 }
 
 .footer-langs a:hover,
+.footer-guides a:hover,
 .footer-meta a:hover {
   color: var(--text);
 }
@@ -1706,7 +1924,7 @@ summary:focus-visible {
   flex: none;
   padding: 7px 12px;
   border-radius: 999px;
-  background: var(--accent);
+  background: var(--accent-fill);
   color: #fff;
   font-weight: 700;
   text-decoration: none;
@@ -1844,7 +2062,8 @@ html.running .lang-suggest {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .features {
+  .features,
+  .guide-cards {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1929,8 +2148,33 @@ html.running .lang-suggest {
     border-radius: 22px;
   }
 
-  .features {
+  .features,
+  .guide-cards {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .guide-block p,
+  .guide-block ul {
+    font-size: 17px;
+  }
+
+  .spec {
+    gap: 12px 24px;
+  }
+
+  .time-table th,
+  .time-table td {
+    padding-right: 10px;
+    font-size: 15px;
+  }
+
+  .time-table thead th {
+    font-size: 11px;
+    letter-spacing: 0.04em;
+  }
+
+  .spec dd {
+    font-size: 22px;
   }
 
   .phones {
